@@ -66,6 +66,23 @@ ___________
 [![postman](https://github.com/user-attachments/assets/52c39e3f-de00-4fbe-a81a-6a0589373001)](https://www.postman.com/)
 &nbsp;
 [![redux](https://github.com/user-attachments/assets/a6f61e24-53ea-4184-8e75-936cb0cd91ab)](https://redux.js.org/)
+&nbsp;
+[![netlify](https://github.com/user-attachments/assets/05b67193-3fe4-4150-bd20-f07f338c3ddc)](https://netlify.com/)
+&nbsp;
+[![nodejs](https://github.com/user-attachments/assets/939a3298-416c-486c-896b-283a3030ac02)](https://nodejs.org/)
+&nbsp;
+[![nestjs](https://github.com/user-attachments/assets/d7cd0990-052d-4773-8ed0-474e3ad2f538)](https://nestjs.com/)
+&nbsp;
+[![docker](https://github.com/user-attachments/assets/7748add4-ff4d-42f7-aa2e-5ad2ed032863)](https://www.docker.com/)
+&nbsp;
+[![swagger](https://github.com/user-attachments/assets/ee83018f-4af0-408d-a619-db1e064f0f97)](https://swagger.io/)
+&nbsp;
+[![git](https://github.com/user-attachments/assets/91e176df-c29d-40d3-8616-ad08bc639531)](https://git-scm.com/)
+
+
+
+
+
 
 
 
