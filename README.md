@@ -17,10 +17,10 @@ ___________
 
 |  📌  |  📌  |  📌  | 📌 |
 | ---------- | ------- | --------- | ------ |
-| [Eatylist](https://eatylist.netlify.app/) | [APIQuest](https://leafy-halva-b233d7.netlify.app/) | [Forms](https://task-react-form.netlify.app/) | [SWAPI](https://task-app-state-management.netlify.app/?search=&page=1) |
-| [News API](https://comtvset.github.io/JavaScript-Front-end-2023Q4/news-js/) | [Hangman](https://comtvset.github.io/JavaScript-Front-end-2023Q4/hangman/) | [Audio-player](https://comtvset.github.io/JS-FE-Pre-School-2023Q2/js30-audio-player/) | [Image-galery](https://comtvset.github.io/JS-FE-Pre-School-2023Q2/js30-image-galery/) |
-| [Tic-Tac-Toe](https://comtvset.github.io/JS-FE-Pre-School-2023Q2/tic-tac-toe/) | [Keyborad](https://comtvset.github.io/development/) | [Nonograms](https://comtvset.github.io/JavaScript-Front-end-2023Q4/nonograms/) | [Songbird](https://rolling-scopes-school.github.io/comtvset-JSFE2022Q3/songBirds/#en) |
-| [Library](https://comtvset.github.io/JS-FE-Pre-School-2023Q2/library/) | [Coffee House](https://comtvset.github.io/JavaScript-Front-end-2023Q4/coffee-house/main/) |  |  |
+| [AI‧BlaBlaBla](https://ai-blablabla.netlify.app/) | [Eatylist](https://eatylist.netlify.app/) | [APIQuest](https://leafy-halva-b233d7.netlify.app/) | [Forms](https://task-react-form.netlify.app/) |
+| [SWAPI](https://task-app-state-management.netlify.app/?search=&page=1) | [News API](https://comtvset.github.io/JavaScript-Front-end-2023Q4/news-js/) | [Hangman](https://comtvset.github.io/JavaScript-Front-end-2023Q4/hangman/) | [Audio-player](https://comtvset.github.io/JS-FE-Pre-School-2023Q2/js30-audio-player/) |  |
+| [Image-galery](https://comtvset.github.io/JS-FE-Pre-School-2023Q2/js30-image-galery/) | [Tic-Tac-Toe](https://comtvset.github.io/JS-FE-Pre-School-2023Q2/tic-tac-toe/) | [Keyborad](https://comtvset.github.io/development/) | [Nonograms](https://comtvset.github.io/JavaScript-Front-end-2023Q4/nonograms/) |
+| [Songbird](https://rolling-scopes-school.github.io/comtvset-JSFE2022Q3/songBirds/#en) | [Library](https://comtvset.github.io/JS-FE-Pre-School-2023Q2/library/) | [Coffee House](https://comtvset.github.io/JavaScript-Front-end-2023Q4/coffee-house/main/) |  |
 
 ### 🔗 Links:
 
