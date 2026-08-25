@@ -2,9 +2,7 @@
 <h2 align="center">Hi👋, I'm Vadzim</h2>
 
 <small>
-I'm passionate about Frontend development. I have had an exciting experience working on a study project as part of a team. I'm very grateful to our team for this opportunity!  
-Every day I strive to expand my knowledge and explore new aspects of Frontend development. Also, I'm learning English and Polish.  
-Currently, I'm starting a <a href="https://eatylist.netlify.app/">new project</small>.
+I am a Frontend Developer working with React, TypeScript, Next.js and modern Frontend technologies. I have practical experience developing web applications and working in a team on real-world projects. I pay particular attention to visual accuracy in interfaces and carefully review the results of my work. I also actively use modern AI tools in the development process and follow the evolution of AI technologies.</small>
 </sub>
 
 ___________
